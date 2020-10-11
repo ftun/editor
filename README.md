@@ -1,2 +1,2 @@
 # editor
-Component WYSIWYG
+Component WYSIWYG | Felipe Tun
