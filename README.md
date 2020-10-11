@@ -1,0 +1,2 @@
+# editor
+Component WYSIWYG
